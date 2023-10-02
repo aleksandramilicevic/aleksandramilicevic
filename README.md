@@ -2,5 +2,5 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs" 
 </div>
